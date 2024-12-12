@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\r2024"
+    "\\r2024",
+    "\\r2024\\d5",
+    "\\r2024\\d5\\ConsoleApp1",
+    "\\r2024\\d5\\ConsoleApp1\\ConsoleApp1",
+    "\\r2024\\d5\\ConsoleApp1\\ConsoleApp1\\bin",
+    "\\r2024\\d5\\ConsoleApp1\\ConsoleApp1\\bin\\Debug",
+    "\\r2024\\d5\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\net7.0"
   ],
-  "SelectedNode": "\\d4",
+  "SelectedNode": "\\r2024\\d5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

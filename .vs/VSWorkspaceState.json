@@ -2,13 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\r2024",
-    "\\r2024\\d7",
     "\\r2024\\d7\\ConsoleApp1",
     "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1",
     "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1\\bin",
     "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1\\bin\\Debug",
-    "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\net7.0"
+    "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\net7.0",
+    "\\r2024\\d8",
+    "\\r2024\\d8\\ConsoleApp1",
+    "\\r2024\\d8\\ConsoleApp1\\ConsoleApp1",
+    "\\r2024\\d8\\ConsoleApp1\\ConsoleApp1\\bin",
+    "\\r2024\\d8\\ConsoleApp1\\ConsoleApp1\\bin\\Debug",
+    "\\r2024\\d8\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\net7.0"
   ],
-  "SelectedNode": "\\r2024\\d7\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+  "SelectedNode": "\\r2024\\d8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

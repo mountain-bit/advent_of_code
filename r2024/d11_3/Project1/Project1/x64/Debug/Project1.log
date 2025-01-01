@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+C:\advent_of_code\advent_of_code\r2024\d11_3\Project1\Project1\Źródło.cpp(61,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\advent_of_code\advent_of_code\r2024\d11_3\Project1\Project1\Źródło.cpp(46,45): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Project1.vcxproj -> C:\advent_of_code\advent_of_code\r2024\d11_3\Project1\x64\Debug\Project1.exe

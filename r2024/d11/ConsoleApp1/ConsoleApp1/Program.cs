@@ -14,6 +14,7 @@ try
 
     string sciezkaPliku = "wyniki.txt";
 
+
     // Zapis listy do pliku
     using (StreamWriter writer = new StreamWriter(sciezkaPliku))
     {
